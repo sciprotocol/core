@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sciia Core
+Comment=Sciia P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Sciia peer-to-peer Netzwerk
+Comment[fr]=Sciia, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Sciia, eşten eşe kriptografik sanal para birimi
+Exec=sciia-qt %u
+Terminal=false
+Type=Application
+Icon=sciia128
+MimeType=x-scheme-handler/sciia;
+Categories=Office;Finance;

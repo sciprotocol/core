@@ -1,0 +1,22 @@
+[Unit]
+Description=Sciia's distributed currency daemon
+After=network.target
+
+[Service]
+User=sciiacore
+Group=sciiacore
+
+Type=forking
+PIDFile=/var/lib/sciiad/sciiad.pid
+ExecStart=/usr/bin/sciiad -daemon -pid=/var/lib/sciiad/sciiad.pid \
+-conf=/etc/sciiacore/sciia.conf -datadir=/var/lib/sciiad -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

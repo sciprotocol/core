@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/sciia_ar.qm</file>
+        <file alias="bg">locale/sciia_bg.qm</file>
+        <file alias="de">locale/sciia_de.qm</file>
+        <file alias="en">locale/sciia_en.qm</file>
+        <file alias="es">locale/sciia_es.qm</file>
+        <file alias="fi">locale/sciia_fi.qm</file>
+        <file alias="fr">locale/sciia_fr.qm</file>
+        <file alias="it">locale/sciia_it.qm</file>
+        <file alias="ja">locale/sciia_ja.qm</file>
+        <file alias="ko">locale/sciia_ko.qm</file>
+        <file alias="nl">locale/sciia_nl.qm</file>
+        <file alias="pl">locale/sciia_pl.qm</file>
+        <file alias="pt">locale/sciia_pt.qm</file>
+        <file alias="ro">locale/sciia_ro.qm</file>
+        <file alias="ru">locale/sciia_ru.qm</file>
+        <file alias="sk">locale/sciia_sk.qm</file>
+        <file alias="th">locale/sciia_th.qm</file>
+        <file alias="tr">locale/sciia_tr.qm</file>
+        <file alias="vi">locale/sciia_vi.qm</file>
+        <file alias="zh_CN">locale/sciia_zh_CN.qm</file>
+        <file alias="zh_TW">locale/sciia_zh_TW.qm</file>
+    </qresource>
+</RCC>
