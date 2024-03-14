@@ -66,6 +66,8 @@ not straightforward.
 | Block reward             | 60 coins                                  |
 | Coin supply              | 210,000,000 coins                        |
 | Block Time               | 60 seconds                                 |
+| Miner Reward              | 85 %                                 |
+| Development               | 15 %                                 |
 
 ------------------------------------------------------------------------------------------------
 Available Pools:
