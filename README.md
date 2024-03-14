@@ -95,7 +95,7 @@ ZergPool                | [https://zergpool.com/](https://zergpool.com/)
 | Email                | [developers@SCIProtocol.org](mailto:developers@SCIProtocol.org) |
 | Twitter              | [Twitter](https://twitter.com/SCIProtocol)                  |
 | Discord              | [Discord Invite](https://discord.gg/eQB3JP8WdK)          |
-| Bitcointalk          | [Bitcointalk Forum](https://bitcointalk.org/index.php?topic=0.0) |
+| Bitcointalk          | [Bitcointalk Forum](https://bitcointalk.org/index.php?topic=5488822.0) |
 
 Info Links               | Link
 ------------------------|------------------------------------
